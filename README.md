@@ -22,7 +22,7 @@ This project demonstrates how to use the HuskyLens AI camera with an Arduino Uno
 | LED       | Pin 7       |               | Anode  |
 
 ### Code:
-You can find the code in the `code.ino` file
+You can find the complete code in the [`code.ino`](./code.ino) file.
 
 ### Setup:
 - The HuskyLens AI camera is connected to the Arduino Uno using SoftwareSerial.
